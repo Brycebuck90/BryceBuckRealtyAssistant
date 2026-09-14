@@ -9,34 +9,51 @@
 ---
 
 ## Who I am
-<!-- What you do, how long you've been doing it. Your words, not a resume. -->
+I'm Bryce. I help people buy, sell, and invest in real estate — residential and
+commercial, in Illinois and Northwest Indiana (NWI).
 
 ## How I make money right now
-<!-- Where the bulk of your income ACTUALLY comes from. Be specific.
-     "Referrals from past clients and my sphere" — not "real estate." -->
+Closing on residential and commercial real estate sales in IL and NWI. Most of it
+comes from past clients, referrals, cold call circle prospecting, and expired
+listings — not cold online leads.
 
 ## What I'm building toward
-<!-- The next 90 days. A number, a deal, a change. Specific enough to aim at. -->
+6 closings and $30k GCI for the remainder of the year.
 
 ## What a real opportunity looks like for me this quarter
-<!-- THE MOST IMPORTANT SECTION IN THIS FILE.
-     The email audit uses this to decide what counts as money.
-     Who's the person? What are they asking for? What does it look like when it
-     shows up in your inbox?
-     "Someone asking what their house is worth" / "A past client mentioning a move"
-     / "An investor asking about off-market" — that level of specific. -->
+Texts, calls, or emails where someone asks what their property is worth, what the
+market looks like, or anything about buying, selling, leasing, or investing in real
+estate. That's live — treat it as money.
+
+**Not** an opportunity: pitches offering to create/boost videos or listing content
+for me. That's noise, not a deal — ignore it even though it looks like business talk.
 
 ## Who matters
-<!-- Names. Clients, partners, your broker, your lender, your title rep.
-     If their name shows up in your inbox, it should get noticed. -->
+**Attorneys:** Nick Ktenas, Gerald Bauer
+**Clients:** Melissa Limberopolous, Angel Paladines, Noel Marquez, Mary Woodards, Mo Suleiman
+**Lenders:** Tony Rovella, Sandra Viragova, Thomas Storino, Von Mason
+
+*(No CRM connection yet — Follow Up Boss isn't hooked up in this kit, only email.
+Update this list by hand as your active roster changes.)*
 
 ## What I want to stop spending time on
-<!-- The part of the week you dread. What you keep meaning to follow up on and never do.
-     Say it the way you'd say it to a friend. -->
+Everything that eats the week in small pieces:
+- Drafting follow-up texts and emails to clients, agents, lenders
+- Drafting "here's all my info" intro messages
+- Running comps on properties
+- Adding calendar entries
+- Logging who I talked to and what I told them
+- Drafting and planning social media content — I want this consistent and sharp,
+  not an afterthought, but it's the first thing to slip when I get busy
+
+What actually falls through the cracks: callbacks to agents and lenders waiting on
+updates, status updates to needy clients even when there's nothing new to report,
+and social media consistency.
 
 ## How I sound
-<!-- How you talk to a client you like. Formal, casual, straight-shooter?
-     And anything you'd never say — words that don't sound like you. -->
+Casual, direct, no fluff. I open with "hey" and confirm specifics.
+Example: "Hey (name), this is Bryce, just making sure we are still on for today at
+(time)?"
 
 ---
 
