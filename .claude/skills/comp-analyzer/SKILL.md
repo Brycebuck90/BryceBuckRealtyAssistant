@@ -27,10 +27,16 @@ Do the math:
 - Flag anything that looks like an outlier (a comp far outside the range of the others)
   rather than silently averaging it in
 
+Bryce's comp window, in order: **6 months first. If that's not enough data, go to 12
+months. If 12 months still isn't enough, go to 24 months** — that last step only
+happens in worst-case scenarios where the immediate area just isn't turning over.
+
 Hand back a value **range**, not a single number — that's how Bryce actually uses this
 with clients. Keep the output short: the range, the math behind it, and anything he
 should double check (e.g. "only 2 comps under 6 months, one 11-month comp included to
-hit 3").
+hit 3"). If none of the comps he gave you fall inside 12 months, flag it plainly and
+say he's effectively in the 24-month worst-case tier — that's a signal to double check
+nothing more recent closed before taking a number to a client.
 
 ## Mode 2: Investment deal analysis
 
