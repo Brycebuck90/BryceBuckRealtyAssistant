@@ -33,6 +33,7 @@ Inside it are your two **skills** — the jobs this agent knows how to do:
 |---|---|
 | **`80-20`** | The teacher. Runs the four lessons, one step at a time. This is what `/80-20` calls. |
 | **`email-audit`** | The 7-Day Sweep. Reads your inbox, sorts it into money / worth-your-time / noise, and drafts three replies. |
+| **`comp-analyzer`** | Takes comps and deal numbers you already pulled and does the math — property value from closed comps, and deal analysis against your 15% ROI / $30K profit bar. |
 
 **A skill is just a folder with instructions in it.** That's the entire concept. When you
 type `/80-20`, Claude reads that skill's instructions and follows them. Nothing magic,
