@@ -1,0 +1,6 @@
+# Local-only, per the folder's own rule: nothing leaves this machine
+# except what you choose to send yourself.
+.env
+drafts/
+reports/
+dashboard.html

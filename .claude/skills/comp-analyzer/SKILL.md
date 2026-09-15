@@ -71,3 +71,36 @@ no hedging language. Match how Bryce talks (see `CLAUDE.md` → How I sound).
 - Never invents comps or numbers he didn't provide.
 - Nothing here drafts anything client-facing — that's a different job. This skill's
   output is for Bryce, to make the decision, not to send.
+
+## Saving the result (for the dashboard)
+
+Once a run is complete (not a partial/in-progress one still waiting on missing info),
+save it as a JSON file in `reports/comps/`, named `YYYY-MM-DD-<short-slug-of-address>.json`.
+This is what `dashboard.html` reads to show Bryce his results in one place instead of
+scrolling chat history — after saving, mention he can run `python3 scripts/dashboard.py`
+(or just ask to "update my dashboard") to see it there.
+
+Shape of the file:
+
+```json
+{
+  "id": "YYYY-MM-DD-short-slug",
+  "timestamp": "YYYY-MM-DDTHH:MM:SS",
+  "type": "valuation",           // or "deal"
+  "subject": "full subject address",
+  "subject_details": "SF, condition, bed/bath — whatever's known",
+  "range_low": 0,                 // valuation mode
+  "range_high": 0,                // valuation mode
+  "verdict": null,                // deal mode: "Good deal" or "Pass", else null
+  "recommended_list_price": "129,900-132,900",  // optional, valuation mode
+  "comps": [
+    {"address": "", "closed": "YYYY-MM-DD", "sold_price": 0, "sqft": 0, "price_per_sqft": 0.0, "days_on_market": 0}
+  ],
+  "flags": ["anything Bryce should double check"],
+  "notes": "short free-text takeaway"
+}
+```
+
+For deal mode, it's fine to omit `range_low`/`range_high`/`comps` if the deal came in as
+raw numbers rather than through Mode 1 — just fill in `verdict` and whatever inputs went
+into the math in `notes`.

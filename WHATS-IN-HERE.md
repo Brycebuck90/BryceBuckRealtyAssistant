@@ -17,7 +17,10 @@ Quick map, so nothing feels like a black box.
 | **.env.example** | The template for your email login. You'll copy it to `.env` in Lesson 3. |
 | **lessons/** | The four lessons. You don't open these — `/80-20` walks you through them. |
 | **scripts/inbox.py** | The read-only email reader. Open it if you're curious — it's short. |
+| **scripts/dashboard.py** | Builds `dashboard.html` from your saved comp/deal runs. Run it, or just ask to "update my dashboard." |
 | **drafts/** | Where your drafted replies land. Nothing here was ever sent. |
+| **reports/** | Saved comp and deal runs, one file per run. What the dashboard reads. Not shared or pushed anywhere — see `.gitignore`. |
+| **dashboard.html** | Your results, in one clean page. Double-click to open in a browser. Local only — nobody else can see it. |
 
 ---
 
