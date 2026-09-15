@@ -9,34 +9,25 @@
 ---
 
 ## Who I am
-<!-- What you do, how long you've been doing it. Your words, not a resume. -->
+Bryce Buck. Full-time realtor and investor, based in Mokena, IL, raised in Lockport, IL. I serve any individual who needs help buying, selling, or investing — residential or commercial. I started this to create financial freedom and bring as many like-minded people on that journey with me as possible, while helping people maximize their potential on the biggest asset they'll ever buy or sell. My core values: integrity, discipline, growth.
 
 ## How I make money right now
-<!-- Where the bulk of your income ACTUALLY comes from. Be specific.
-     "Referrals from past clients and my sphere" — not "real estate." -->
+Residential and commercial real estate — listing and selling homes, representing buyers, and doing investment deals. I run a proven marketing and negotiation strategy that gives clients a smooth, calculated process and maximizes their outcome.
 
 ## What I'm building toward
-<!-- The next 90 days. A number, a deal, a change. Specific enough to aim at. -->
+Closing 6 more deals and hitting $30,000 GCI in the next 90 days. Beyond that, buying back my time so I can spend more of it on the phone finding deals — the thing that actually makes me money — instead of buried in comps and deal analysis.
 
 ## What a real opportunity looks like for me this quarter
-<!-- THE MOST IMPORTANT SECTION IN THIS FILE.
-     The email audit uses this to decide what counts as money.
-     Who's the person? What are they asking for? What does it look like when it
-     shows up in your inbox?
-     "Someone asking what their house is worth" / "A past client mentioning a move"
-     / "An investor asking about off-market" — that level of specific. -->
+Sellers who know what they need to walk away with, what matters most in getting the deal done, and what's next. Buyers who know exactly what home they want, are pre-approved, and trust my advice through the process. Investment deals that hit at least 15% ROI or $30,000 in profit after current value, ARV, repair costs, taxes, holding costs, and closing costs.
 
 ## Who matters
-<!-- Names. Clients, partners, your broker, your lender, your title rep.
-     If their name shows up in your inbox, it should get noticed. -->
+My clients — buyers, sellers, and investors — and the like-minded people I'm bringing along on this journey with me.
 
 ## What I want to stop spending time on
-<!-- The part of the week you dread. What you keep meaning to follow up on and never do.
-     Say it the way you'd say it to a friend. -->
+Running comps and analyzing deals manually: pulling MLS data, drawing boundaries, sorting comps, and plugging numbers into my deal analyzer spreadsheet. It eats hours I should be spending finding more deals.
 
 ## How I sound
-<!-- How you talk to a client you like. Formal, casual, straight-shooter?
-     And anything you'd never say — words that don't sound like you. -->
+Direct, Warm, Bold, No-BS, Friendly, Authoritative, Playful, Conversational, Authentic. I never say "hi."
 
 ---
 
