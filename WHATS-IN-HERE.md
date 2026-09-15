@@ -17,7 +17,10 @@ Quick map, so nothing feels like a black box.
 | **.env.example** | The template for your email login. You'll copy it to `.env` in Lesson 3. |
 | **lessons/** | The four lessons. You don't open these — `/80-20` walks you through them. |
 | **scripts/inbox.py** | The read-only email reader. Open it if you're curious — it's short. |
+| **scripts/dashboard.py** | Builds `dashboard.html` from your saved email/follow-up/goal/comp data. Run it, or just ask to "update my dashboard." |
 | **drafts/** | Where your drafted replies land. Nothing here was ever sent. |
+| **reports/** | Saved email sweeps, follow-up contacts, goal progress, and comp/deal runs. What the dashboard reads. Not shared or pushed anywhere — see `.gitignore`. |
+| **dashboard.html** | Your day, in one clean page: email triage, who's going cold, goal progress, recent comp runs. Double-click to open in a browser. Local only — nobody else can see it. |
 
 ---
 
@@ -27,12 +30,15 @@ There's a folder called **`.claude`** in here that your computer hides on purpos
 Any folder starting with a dot is hidden by default. **Nothing is missing** — Claude
 Code reads it whether you can see it or not.
 
-Inside it are your two **skills** — the jobs this agent knows how to do:
+Inside it are your **skills** — the jobs this agent knows how to do:
 
 | Skill | What it does |
 |---|---|
 | **`80-20`** | The teacher. Runs the four lessons, one step at a time. This is what `/80-20` calls. |
-| **`email-audit`** | The 7-Day Sweep. Reads your inbox, sorts it into money / worth-your-time / noise, and drafts three replies. |
+| **`email-audit`** | The 7-Day Sweep. Reads your inbox, sorts it into money / worth-your-time / noise, and drafts replies. |
+| **`comp-analyzer`** | Takes comps and deal numbers you already pulled and does the math — property value from closed comps, and deal analysis against your 15% ROI / $30K profit bar. |
+| **`follow-up-tracker`** | Logs who you talked to and when, so nobody goes quiet by accident. Say "I talked to [name] today." |
+| **`goal-tracker`** | Tracks deals and GCI against your 90-day goal. Say "log a closed deal" after a closing. |
 
 **A skill is just a folder with instructions in it.** That's the entire concept. When you
 type `/80-20`, Claude reads that skill's instructions and follows them. Nothing magic,
